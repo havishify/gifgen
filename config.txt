@@ -1,0 +1,2 @@
+framerate=7.5
+stop_duration=1.5
